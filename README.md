@@ -1,1 +1,0 @@
-# university_admission-management-system
