@@ -1,0 +1,30 @@
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: ya,mna
+Father's Name: fazil
+RollNumber: 123654
+Email ID: yana@gmial.com
+Contact Number: 03000
+Wants to take: software engineering
+Wants to Join in Jinnah university for Arts
+ Wants to be in morning 
+Had chosen: BS SE(2, 50, 000)
+Had chosen: 3 SHARE(1, 40, 000)
+                    Total amount to be paid is 3.9 Lakhs   
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Father's Name: 
+RollNumber: 
+Email ID: 
+Contact Number: 
+Wants to take: pharm-d
+Had chosen: null
+Had chosen: null
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Father's Name: 
+RollNumber: 
+Email ID: 
+Contact Number: 
+Wants to take: pharm-d
+Had chosen: null
+Had chosen: null
